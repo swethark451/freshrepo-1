@@ -14,7 +14,7 @@ permissions:
 
 jobs:
   terraform:
-    name: terraform1
+    name: terraform2
     runs-on: ubuntu-latest
 
     steps:
